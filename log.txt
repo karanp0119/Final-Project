@@ -1,0 +1,51 @@
+
+
+**NEW GAME**
+
+
+6 of Hearts
+4 of Spades
+Your total is 10
+
+3 of Hearts
+Your total is 13
+
+3 of Diamonds
+Your total is 16
+
+2 of Spades
+Your total is 18
+
+4 of Diamonds
+Your total is 22
+You LOSE!
+
+**NEW GAME**
+
+
+3 of Hearts
+7 of Diamonds
+Your total is 10
+
+5 of Hearts
+Your total is 15
+
+4 of Hearts
+Your total is 19
+
+3 of Clubs
+Your total is 22
+You LOSE!
+
+Queen of Spades
+Ace of Spades
+Your total is 21
+Lucky WIN!
+
+10 of Clubs
+3 of Diamonds
+Your total is 13
+
+Queen of Clubs
+Your total is 23
+You LOSE!
